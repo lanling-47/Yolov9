@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSV Data</title>
+</head>
+<body>
+    <h1>CSV Data</h1>
+    <form action="/edit" method="post">
+        <input type="hidden" name="filename" value="{{ filename }}">
+        {{ data | safe }}
+        <input type="submit" value="Save Changes">
+    </form>
+</body>
+</html>

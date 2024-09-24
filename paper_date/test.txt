@@ -1,0 +1,120 @@
+D:\bs\yolov9-main\data\mydata\images/0.25transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/0.30transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/0.30transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/0.40transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210802_15_01_13_000_ezqXIKE8x4Qo3j3qx14DU4m6m3H3_T_4160_2080transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210804_20_45_09_000_7l6JXxHcrEc2QlaI05evNtFJuLg2_F_4000_3000transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_11_58_56_000_ZzQX2jTj53YXTpjUai1Q7tLY0N22_F_3264_2448transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_16_33_05_000_iAE8ljvxgPMkKoukne028OsZjyV2_F_3096_4128transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_16_52_42_000_xBN9LSUJ4lS18DIDO0eluxOT6xb2_F_4160_3120transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_17_19_46_000_DHdl0XMIsEdUhwMzzTPtq8r5H4M2_F_3096_4128 (1)transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_17_20_20_000_DHdl0XMIsEdUhwMzzTPtq8r5H4M2_F_3096_4128transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_17_34_11_000_DHdl0XMIsEdUhwMzzTPtq8r5H4M2_F_3096_4128 (1)transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_17_34_11_000_DHdl0XMIsEdUhwMzzTPtq8r5H4M2_F_3096_4128 (1)transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_17_34_11_000_DHdl0XMIsEdUhwMzzTPtq8r5H4M2_F_3096_4128 (1)transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_19_24_22_000_zFML3pShSPYJ5zVUd9nMmwkObIo1_F_2448_3264transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_19_24_22_000_zFML3pShSPYJ5zVUd9nMmwkObIo1_F_2448_3264transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_19_24_22_000_zFML3pShSPYJ5zVUd9nMmwkObIo1_F_2448_3264transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_23_00_58_000_IFix9cz8E4XHi7nbm3k2NwbFXNl1_F_3000_4000 (1)transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_23_50_05_000_XmGwpmSSmDb98ALcueWDF8OFWrG2_F_4160_3120transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210805_23_51_16_000_XmGwpmSSmDb98ALcueWDF8OFWrG2_F_4160_3120transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210806_17_07_31_000_wFlY39NOieR2fsNI4wU820Izeog2_F_3456_4608transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210806_17_09_26_000_wFlY39NOieR2fsNI4wU820Izeog2_F_3456_4608transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210807_10_41_26_000_p8Nd1v2wuLZeaak36Q3tB90El333_F_3000_4000transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210807_10_41_26_000_p8Nd1v2wuLZeaak36Q3tB90El333_F_3000_4000transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210808_17_06_56_428_000_HflEFS3FzhWhHCMxWNuBL9kJ1433_F_1932_2576 (1)transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210808_20_48_55_935_000_qg2NDAhSeCX7kAEWB0JvmTf0bkX2_F_2448_3264transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210808_20_49_47_136_000_qg2NDAhSeCX7kAEWB0JvmTf0bkX2_F_2448_3264transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210809_11_33_49_929_000_3baaPTfJXLexq8wvLm4YNMsFZ853_F_3264_2448transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210810_09_58_42_000_bN1ZvL8ypDMBuWNsZ104Iv1esRG2_F_4160_3120transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210810_14_56_28_427_000_wmO8RFoaLcbLFpr0Jectrz3SP042_F_3264_2448transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210810_15_05_53_057_000_wmO8RFoaLcbLFpr0Jectrz3SP042_F_3264_2448transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210810_15_05_53_057_000_wmO8RFoaLcbLFpr0Jectrz3SP042_F_3264_2448transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210810_16_46_48_146_000_lUeFy5q6WrdFuMdjQdeQZeoitrz1_F_3000_4000transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210810_21_45_00_150_000_5XIWzz9zhpWeOWO1ulYXXU0CiEA3_T_2322_4128transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210811_09_17_43_524_000_rsGisR1i8VXny1ohxxD9oh1Xxhn1_F_3000_4000transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210811_09_17_43_524_000_rsGisR1i8VXny1ohxxD9oh1Xxhn1_F_3000_4000transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210811_10_47_53_542_000_kCoPYNlq3YXpBFAqM3Z8AhgbGMs1_F_3264_2448transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210811_14_49_48_688_000_T54lKx4A7QZiDCdTrSViCqgiLD42_F_4032_3024transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210811_15_05_03_958_000_bBYOWSVWKfdMwgS0b9XHL5w66nx2_F_4160_3120transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210811_15_05_03_958_000_bBYOWSVWKfdMwgS0b9XHL5w66nx2_F_4160_3120transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210811_15_33_04_408_000_DCyt2GrQ2uaK7QEduta75ETX7sm1_F_3264_2448 (1)transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210811_17_00_59_124_000_OCNgvxwC4uSSeVkZthYmAtzbEgI2_F_4160_3120transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210812_21_27_57_066_000_fwcqJUZbziU5Lr170zjCbxVzJsw1_F_4160_3120transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210813_09_01_56_005_000_cJhKs4LtDXf6buACr8L2lgfuy2b2_F_3264_2448transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210813_17_40_16_094_000_M8edkDPzbOdnTM3x6Qvupp9OV9o2_F_3096_4128transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210814_02_01_15_363_000_be7ndMjt30YXD9PbSgQcNboIVry2_F_4160_3120transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210814_10_11_58_449_000_wVWQl3sChLhOS2A42U7bbgydQj13_F_3096_4128transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210814_10_11_58_449_000_wVWQl3sChLhOS2A42U7bbgydQj13_F_3096_4128transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210814_11_38_55_489_000_alOL9zeX9re31uArwahC7nZPPPk2_F_3264_2448transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210814_23_32_23_161_000_KN1QCWKVJChN0i3oNO3T4RKCiN22_F_3000_4000transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210815_08_47_31_952_000_LOEnR2s2ccQyz445xabBTgBAGTo1_F_3264_2448transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210815_08_47_31_952_000_LOEnR2s2ccQyz445xabBTgBAGTo1_F_3264_2448transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210815_10_32_52_534_000_yhc2U5hUNIOPWXky2iOPPiKsNMr2_F_3000_4000transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210815_15_02_52_682_000_JwWZC6W7dQdr2ZV4C3xk1eJjnd62_T_4160_1952 (1)transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210815_15_02_52_682_000_JwWZC6W7dQdr2ZV4C3xk1eJjnd62_T_4160_1952transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210816_09_33_56_787_000_rL2kqMTF49hV0ItNsiriKZcad3r1_F_3096_4128transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210816_09_36_05_878_000_rL2kqMTF49hV0ItNsiriKZcad3r1_F_3096_4128transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210816_14_23_03_822_000_MkfwhctJoRRL9mpPGvONc64KmWh1_F_3264_2448transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210817_14_27_41_240_000_T54lKx4A7QZiDCdTrSViCqgiLD42_F_4032_3024transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210817_14_27_41_240_000_T54lKx4A7QZiDCdTrSViCqgiLD42_F_4032_3024transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210820_11_34_34_057_000_xYx8oAo238YjNeRUeGxW3ADu9ii2_T_3116_2349transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210823_11_11_30_736_000_bZy8xPq1p3WTOXBy9pDMqQeh9sq1_F_3264_2448transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210823_11_11_59_461_000_bZy8xPq1p3WTOXBy9pDMqQeh9sq1_F_3264_2448transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210823_13_02_04_506_000_RpnyZTKRPiTM6SH5vmplbCNYUHb2_F_3000_4000transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210823_20_15_05_056_000_lVfCAiAXrxgVRZ8dwpTKfo0znnW2_F_4608_3456transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210823_20_59_42_354_000_3FQ7xpkMmcdRS27U2bBCBMfyWxs1_F_4000_3000transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210824_19_06_01_482_000_wVWQl3sChLhOS2A42U7bbgydQj13_F_3096_4128transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210825_20_04_43_156_000_b9etrxAW0NcdAdUmHdMNZsKbARk1_F_3024_4032transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210826_09_33_40_734_000_b9etrxAW0NcdAdUmHdMNZsKbARk1_F_3024_4032transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210826_09_33_47_217_000_b9etrxAW0NcdAdUmHdMNZsKbARk1_F_3024_4032transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210827_15_25_05_701_000_LT14Leaw0UYGtqVVDIXPEVsTh2y2_F_3264_2448transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210828_11_18_49_466_000_k7qdu8DrCHNnU5ZI4ihpL5WxmuJ3_F_3456_4608transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210828_16_34_38_476_000_xBN9LSUJ4lS18DIDO0eluxOT6xb2_F_4160_3120transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210828_16_35_51_468_000_xBN9LSUJ4lS18DIDO0eluxOT6xb2_F_4160_3120transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210828_16_36_33_062_000_xBN9LSUJ4lS18DIDO0eluxOT6xb2_F_4160_3120transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210828_16_36_33_062_000_xBN9LSUJ4lS18DIDO0eluxOT6xb2_F_4160_3120transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210828_16_37_42_147_000_xBN9LSUJ4lS18DIDO0eluxOT6xb2_F_4160_3120transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210828_17_25_23_982_000_8svWcOR3oWa3YEU7iM91BDriYhf1_F_4160_3120 (1)transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210828_17_25_23_982_000_8svWcOR3oWa3YEU7iM91BDriYhf1_F_4160_3120transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210829_12_58_50_960_000_oN9fhwxmSeQSLXMh44j4yjetiqC2_F_3000_4000transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210830_17_01_03_968_000_T54lKx4A7QZiDCdTrSViCqgiLD42_F_4032_3024transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210830_17_05_54_229_000_T54lKx4A7QZiDCdTrSViCqgiLD42_F_4032_3024transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210830_17_38_00_220_000_T54lKx4A7QZiDCdTrSViCqgiLD42_F_4032_3024transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210830_17_38_00_220_000_T54lKx4A7QZiDCdTrSViCqgiLD42_F_4032_3024transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210831_10_44_39_577_000_rWV5wv4tYxdEIoiYAsudekJcrcx1_T_4160_3120transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210831_18_03_44_737_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120 (1)transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210831_18_04_08_951_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120 (1)transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210831_18_04_08_951_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210831_18_04_08_951_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210831_18_04_32_701_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120 (1)transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210831_18_05_01_809_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210831_18_05_10_265_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120 (1)transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210831_18_05_25_676_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120 (1)transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210831_21_36_16_457_000_d6VfI52O5edBLyTlsz7F5feBXti2_F_2448_3264transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_10_07_54_955_000_cfPvBNAyiMOANxwdSiC998X707o2_F_3000_4000transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_10_07_54_955_000_cfPvBNAyiMOANxwdSiC998X707o2_F_3000_4000transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_10_07_54_955_000_cfPvBNAyiMOANxwdSiC998X707o2_F_3000_4000transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_10_14_10_639_000_cfPvBNAyiMOANxwdSiC998X707o2_F_3000_4000transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_10_17_47_760_000_Yn8EfcuddcVddkM0bORPWoOcLBj2_F_4160_3120transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_10_21_34_330_000_Yn8EfcuddcVddkM0bORPWoOcLBj2_F_4160_3120transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_11_17_59_546_000_8svWcOR3oWa3YEU7iM91BDriYhf1_F_4160_3120 (1)transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_11_56_02_129_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120 (1)transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_11_56_02_129_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120 (1)transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_11_56_25_567_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120 (1)transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_11_57_20_320_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120 (1)transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_12_56_13_874_000_T54lKx4A7QZiDCdTrSViCqgiLD42_F_4032_3024transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_13_13_41_514_000_0yNkWam4yzbMzp7Kk796Xbbcq3s1_F_3096_4128transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_13_15_07_569_000_T54lKx4A7QZiDCdTrSViCqgiLD42_F_4032_3024transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_13_15_49_507_000_0yNkWam4yzbMzp7Kk796Xbbcq3s1_F_3096_4128transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_13_15_49_507_000_0yNkWam4yzbMzp7Kk796Xbbcq3s1_F_3096_4128transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_16_23_03_737_000_Yn8EfcuddcVddkM0bORPWoOcLBj2_F_4160_3120transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_16_23_03_737_000_Yn8EfcuddcVddkM0bORPWoOcLBj2_F_4160_3120transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_18_03_39_851_000_cfPvBNAyiMOANxwdSiC998X707o2_F_3000_4000transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/20210902_18_03_39_851_000_cfPvBNAyiMOANxwdSiC998X707o2_F_3000_4000transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/5255transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/55.68 particletransformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/55.68 particletransformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/55.68transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/89.75transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/89.75transformed4.jpg

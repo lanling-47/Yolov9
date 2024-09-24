@@ -1,0 +1,25 @@
+<root><folder>self-images</folder>
+	<filename>Err particle.jpg</filename>
+	<path>data/mydata/images\Err particletransformed1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>432</width>
+		<height>331</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Error</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>233</xmin>
+			<ymin>171</ymin>
+			<xmax>294</xmax>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</root>

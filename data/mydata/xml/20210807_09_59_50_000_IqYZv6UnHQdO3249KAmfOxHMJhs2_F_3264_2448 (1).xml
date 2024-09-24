@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20210807_09_59_50_000_IqYZv6UnHQdO3249KAmfOxHMJhs2_F_3264_2448 (1).jpg</filename>
+	<path>D:\conda\yolov5\yolov5-5.0\yolov5-5.0\data\mydata\images\20210807_09_59_50_000_IqYZv6UnHQdO3249KAmfOxHMJhs2_F_3264_2448 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2448</width>
+		<height>3264</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>9</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1434</xmin>
+			<ymin>1276</ymin>
+			<xmax>1570</xmax>
+			<ymax>1525</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1573</xmin>
+			<ymin>1255</ymin>
+			<xmax>1714</xmax>
+			<ymax>1527</ymax>
+		</bndbox>
+	</object>
+</annotation>

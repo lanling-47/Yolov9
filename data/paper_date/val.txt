@@ -1,0 +1,9 @@
+D:\bs\yolov9-main\data\mydata\images/4230transformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/55transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/55transformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/55transformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/Err misttransformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 misttransformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 particletransformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/Errtransformed2.jpg

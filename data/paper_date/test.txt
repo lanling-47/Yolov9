@@ -1,0 +1,4 @@
+D:\bs\yolov9-main\data\mydata\images/2000transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/3255transformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 misttransformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 misttransformed5.jpg

@@ -1,0 +1,49 @@
+<root><folder>self-images</folder>
+	<filename>20210902_11_56_10_870_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120 (1).jpg</filename>
+	<path>data/mydata/images\20210902_11_56_10_870_000_KHmDZV1nA9afQm6C1fZ6iGmNRl82_F_4160_3120 (1)transformed1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>543</width>
+		<height>724</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>240</ymin>
+			<xmax>338</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>.</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>300</ymin>
+			<xmax>352</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>237</ymin>
+			<xmax>386</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</root>

@@ -1,0 +1,167 @@
+D:\bs\yolov9-main\data\mydata\images/0transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/0transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/0transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/0transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/0transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/0transformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/0transformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/0transformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/0transformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/0transformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/1101transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/1101transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/1101transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/1101transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/1101transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/1101transformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/1101transformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/1101transformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/1101transformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/1101transformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/2000transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/2000transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/2000transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/2000transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/2000transformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/2000transformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/2000transformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/2000transformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/2000transformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/3255transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/3255transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/3255transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/3255transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/3255transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/3255transformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/3255transformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/3255transformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/3255transformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/4230transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/4230transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/4230transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/4230transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/4230transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/4230transformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/4230transformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/4230transformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/4230transformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/5255transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/5255transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/5255transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/5255transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/5255transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/5255transformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/5255transformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/5255transformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/5255transformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/5255transformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/55transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/55transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/55transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/55transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/55transformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/55transformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/55transformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/6170transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/6170transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/6170transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/6170transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/6170transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/6170transformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/6170transformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/6170transformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/6170transformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/6170transformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/89transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/89transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/89transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/89transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/89transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/89transformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/89transformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/89transformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/89transformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/89transformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/Err misttransformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/Err misttransformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/Err misttransformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/Err misttransformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/Err misttransformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/Err misttransformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/Err misttransformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/Err misttransformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/Err misttransformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/Err particletransformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/Err particletransformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/Err particletransformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/Err particletransformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/Err particletransformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/Err particletransformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/Err particletransformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/Err particletransformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/Err particletransformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/Err particletransformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 misttransformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 misttransformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 misttransformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 misttransformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 misttransformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 misttransformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 misttransformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 misttransformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 misttransformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 misttransformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 particletransformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 particletransformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 particletransformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 particletransformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 particletransformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 particletransformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 particletransformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 particletransformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 particletransformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1 particletransformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1transformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1transformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1transformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1transformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/Err1transformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 misttransformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 misttransformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 misttransformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 misttransformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 misttransformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 misttransformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 misttransformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 particletransformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 particletransformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 particletransformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 particletransformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 particletransformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 particletransformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 particletransformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 particletransformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2 particletransformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2transformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2transformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2transformed2.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2transformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2transformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2transformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2transformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2transformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2transformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/Err2transformed9.jpg
+D:\bs\yolov9-main\data\mydata\images/Errtransformed0.jpg
+D:\bs\yolov9-main\data\mydata\images/Errtransformed1.jpg
+D:\bs\yolov9-main\data\mydata\images/Errtransformed3.jpg
+D:\bs\yolov9-main\data\mydata\images/Errtransformed4.jpg
+D:\bs\yolov9-main\data\mydata\images/Errtransformed5.jpg
+D:\bs\yolov9-main\data\mydata\images/Errtransformed6.jpg
+D:\bs\yolov9-main\data\mydata\images/Errtransformed7.jpg
+D:\bs\yolov9-main\data\mydata\images/Errtransformed8.jpg
+D:\bs\yolov9-main\data\mydata\images/Errtransformed9.jpg

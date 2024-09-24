@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>View Data</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        table {
+            width: 80%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        th:last-child, td:last-child {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <h1>Uploaded CSV Data</h1>
+<table border="1">
+  <thead>
+    <tr>
+      {% for header in data[0] %}
+        <th>{{ header }}</th>
+      {% endfor %}
+      <th>编辑</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for row in data[1:] %}
+      <tr>
+        {% for column in row %}
+          <td contenteditable="true">{{ column }}</td>
+        {% endfor %}
+        <td><button onclick="updateRow(this)">保存</button></td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<a href="{{ url_for('download_csv') }}" download><button>下载CSV</button></a>
+
+<!-- JavaScript 代码 -->
+    <script>
+        function updateRow(button) {
+            var row = button.parentNode.parentNode;
+            var rowData = Array.from(row.children).map(cell => cell.textContent);
+            var data = {
+                headers: Array.from(row.parentNode.previousElementSibling.children).map(th => th.textContent),
+                rows: [rowData]
+            };
+            fetch('/update_row', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            }).then(response => {
+                if (response.ok) {
+                    console.log('Row updated successfully');
+                } else {
+                    console.error('Failed to update row');
+                }
+            }).catch(error => {
+                console.error('Error:', error);
+            });
+        }
+    </script>
+</body>
+</html>

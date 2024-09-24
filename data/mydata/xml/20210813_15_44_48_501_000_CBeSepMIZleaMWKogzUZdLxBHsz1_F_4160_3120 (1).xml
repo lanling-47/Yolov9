@@ -1,0 +1,50 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20210813_15_44_48_501_000_CBeSepMIZleaMWKogzUZdLxBHsz1_F_4160_3120 (1).jpg</filename>
+	<path>D:\conda\yolov5\yolov5-5.0\yolov5-5.0\data\mydata\images\20210813_15_44_48_501_000_CBeSepMIZleaMWKogzUZdLxBHsz1_F_4160_3120 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3120</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1253</xmin>
+			<ymin>1955</ymin>
+			<xmax>1370</xmax>
+			<ymax>2218</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1383</xmin>
+			<ymin>1955</ymin>
+			<xmax>1520</xmax>
+			<ymax>2221</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>6</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1560</xmin>
+			<ymin>1921</ymin>
+			<xmax>1703</xmax>
+			<ymax>2231</ymax>
+		</bndbox>
+	</object>
+</annotation>

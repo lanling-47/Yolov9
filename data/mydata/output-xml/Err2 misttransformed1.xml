@@ -1,0 +1,25 @@
+<root><folder>self-images</folder>
+	<filename>Err2 mist.jpg</filename>
+	<path>data/mydata/images\Err2 misttransformed1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>893</width>
+		<height>669</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Error</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>239</ymin>
+			<xmax>519</xmax>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+</root>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Err1 particle.jpg</filename>
+	<path>D:\conda\yolov5\yolov5-5.0\yolov5-5.0\data\mydata\images\Err1 particle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1707</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Error</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>491</xmin>
+			<ymin>712</ymin>
+			<xmax>739</xmax>
+			<ymax>1086</ymax>
+		</bndbox>
+	</object>
+</annotation>

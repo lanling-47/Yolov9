@@ -1,0 +1,25 @@
+<root><folder>self-images</folder>
+	<filename>Err.jpg</filename>
+	<path>data/mydata/images\Errtransformed3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>272</width>
+		<height>363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Error</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>172</ymin>
+			<xmax>164</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</root>

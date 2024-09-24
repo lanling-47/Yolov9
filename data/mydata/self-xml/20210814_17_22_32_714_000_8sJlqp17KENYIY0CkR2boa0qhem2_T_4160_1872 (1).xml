@@ -1,0 +1,50 @@
+<annotation>
+	<folder>self-images</folder>
+	<filename>20210814_17_22_32_714_000_8sJlqp17KENYIY0CkR2boa0qhem2_T_4160_1872 (1).jpg</filename>
+	<path>D:\bs\yolov9-main\data\mydata\self-images\20210814_17_22_32_714_000_8sJlqp17KENYIY0CkR2boa0qhem2_T_4160_1872 (1).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1872</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>738</xmin>
+			<ymin>1592</ymin>
+			<xmax>921</xmax>
+			<ymax>1975</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>4</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>946</xmin>
+			<ymin>1688</ymin>
+			<xmax>1080</xmax>
+			<ymax>2067</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1142</xmin>
+			<ymin>1750</ymin>
+			<xmax>1296</xmax>
+			<ymax>2133</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,37 @@
+<root><folder>self-images</folder>
+	<filename>20210902_13_14_33_576_000_0yNkWam4yzbMzp7Kk796Xbbcq3s1_F_3096_4128.jpg</filename>
+	<path>data/mydata/images\20210902_13_14_33_576_000_0yNkWam4yzbMzp7Kk796Xbbcq3s1_F_3096_4128transformed2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>584</width>
+		<height>778</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>8</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>230</ymin>
+			<xmax>344</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>7</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>243</ymin>
+			<xmax>388</xmax>
+			<ymax>346</ymax>
+		</bndbox>
+	</object>
+</root>

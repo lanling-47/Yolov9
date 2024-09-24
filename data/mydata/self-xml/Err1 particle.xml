@@ -1,0 +1,26 @@
+<annotation>
+	<folder>self-images</folder>
+	<filename>Err1 particle.jpg</filename>
+	<path>D:\bs\yolov9-main\data\mydata\self-images\Err1 particle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1707</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Error</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>729</xmin>
+			<ymin>557</ymin>
+			<xmax>1074</xmax>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+</annotation>
